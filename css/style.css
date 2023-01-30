@@ -54,3 +54,19 @@ header {
 .tim-img {
     height: 500px;
 }
+
+/* SECTION LIST */
+.paragraph {
+    font-size: 1.5rem;
+    margin: 40px 0;
+}
+
+.paragraph span {
+    background-color: rgba(255,255,0,255);
+}
+
+.list {
+    font-size: 1.5rem;
+    margin: 30px 0;
+    padding: 0 20px;
+}
