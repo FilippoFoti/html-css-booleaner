@@ -107,7 +107,36 @@ tr {
     margin: 40px 0;
 }
 
-
 .yellow {
     background-color: rgba(253,253,0,255);
+}
+
+/* SECTION FOOTER */
+.footer {
+    font-size: 1.5rem;
+    color: rgba(128,128,128,255);
+}
+
+.footer-img {
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+    width: 250px;
+    height: 200px;
+    margin: 20px 0;
+    font-size: 1.5rem;
+    color: white;
+}
+
+.footer-img1 {
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+    width: 250px;
+    height: 200px;
+    margin: 20px 0;
+    font-size: 1.5rem;
+    color: white;
+}
+
+footer span {
+    margin: 10px;
 }
