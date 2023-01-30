@@ -1,0 +1,143 @@
+/* RESET */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* COMMON */
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* HEADER */
+header {
+    background-image: url(../img/pattern.png);
+    background-color: rgba(78,160,255,255);
+    background-size: 500px;
+    height: 120px;
+}
+
+.logo {
+    width: 250px;
+    margin: 45px 10px;
+}
+
+/* MAIN */
+/* SECTION TITLE */
+.section-title {
+    margin: 20px 0;
+}
+
+.title {
+    font-size: 4rem;
+}
+
+.info-title {
+    font-size: 1.5rem;
+    color: rgba(135,135,135,255);
+}
+
+.info-title span {
+    color: rgba(33,169,229,255);
+}
+
+.data {
+    color: rgba(135,135,135,255);
+}
+
+/* SECTION IMG */
+.section-img {
+    margin: 30px 0;
+}
+
+.tim-img {
+    height: 500px;
+}
+
+/* SECTION LIST */
+.paragraph {
+    font-size: 1.5rem;
+    margin: 40px 0;
+}
+
+.paragraph span {
+    background-color: rgba(255,255,0,255);
+}
+
+.list {
+    font-size: 1.5rem;
+    margin: 30px 0;
+    padding: 0 20px;
+}
+
+/* SECTION TABLE */
+table {
+    border-spacing: 0px;
+    font-weight: bold;
+    margin: 40px 0;
+}
+
+.table-head {
+    width: 100%;
+    color: white;
+    background-color: rgba(32,169,229,255);
+    text-align: left;
+}
+
+th {
+    width: 25%;
+}
+
+.column {
+    width: 50%;
+}
+
+tr {
+    background-color: rgba(177,229,242,255);
+}
+
+.white {
+    background-color: white;
+}
+
+/* SECTION TEXT */
+.text {
+    font-size: 1.5rem;
+    margin: 40px 0;
+}
+
+.yellow {
+    background-color: rgba(253,253,0,255);
+}
+
+/* SECTION FOOTER */
+.footer {
+    font-size: 1.5rem;
+    color: rgba(128,128,128,255);
+}
+
+.footer-img {
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+    width: 250px;
+    height: 200px;
+    margin: 20px 0;
+    font-size: 1.5rem;
+    color: white;
+}
+
+.footer-img1 {
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+    width: 250px;
+    height: 200px;
+    margin: 20px 0;
+    font-size: 1.5rem;
+    color: white;
+}
+
+footer span {
+    margin: 10px;
+}
