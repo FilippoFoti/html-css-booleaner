@@ -6,7 +6,9 @@
 }
 
 /* COMMON */
-
+main {
+    margin: 0 10px;
+}
 
 /* HEADER */
 header {
@@ -22,13 +24,13 @@ header {
 }
 
 /* MAIN */
+/* SECTION TITLE */
 .section-title {
-    margin: 0 10px;
+    margin: 20px 0;
 }
 
 .title {
     font-size: 4rem;
-    margin-top: 20px;
 }
 
 .info-title {
@@ -42,4 +44,13 @@ header {
 
 .data {
     color: rgba(135,135,135,255);
+}
+
+/* SECTION IMG */
+.section-img {
+    margin: 30px 0;
+}
+
+.tim-img {
+    height: 500px;
 }
