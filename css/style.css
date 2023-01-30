@@ -20,3 +20,26 @@ header {
     width: 250px;
     margin: 45px 10px;
 }
+
+/* MAIN */
+.section-title {
+    margin: 0 10px;
+}
+
+.title {
+    font-size: 4rem;
+    margin-top: 20px;
+}
+
+.info-title {
+    font-size: 1.5rem;
+    color: rgba(135,135,135,255);
+}
+
+.info-title span {
+    color: rgba(33,169,229,255);
+}
+
+.data {
+    color: rgba(135,135,135,255);
+}
